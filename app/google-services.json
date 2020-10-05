@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281180525635",
+    "firebase_url": "https://notep-b9742.firebaseio.com",
+    "project_id": "notep-b9742",
+    "storage_bucket": "notep-b9742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281180525635:android:ade375a766ba516a25f0f6",
+        "android_client_info": {
+          "package_name": "com.example.notep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281180525635-lj77uhnuq7fnqo6p37bqn6pdmik1qgur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notep",
+            "certificate_hash": "ec4a79e4662eee364ca4b9ec78633b51e1522b93"
+          }
+        },
+        {
+          "client_id": "281180525635-a9bnnp7hkc0fpr2fmptbdqb1dlnhvnut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTvK1cuzLBngIJ8wYbERYJK7SDw3jQaOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281180525635-a9bnnp7hkc0fpr2fmptbdqb1dlnhvnut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
